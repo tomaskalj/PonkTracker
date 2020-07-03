@@ -1,0 +1,5 @@
+name: PonkTracker
+main: com.lacota.PonkTracker
+version: 1.337
+commands:
+  track:
